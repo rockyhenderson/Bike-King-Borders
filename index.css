@@ -1,0 +1,140 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    color: white;
+}
+
+.hero-section {
+    flex-grow: 1;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left-text-box {
+    width: 50vw;
+    height: 100%;
+    position: relative;
+    background-color: #151718;
+
+}
+
+.right-text-box {
+    width: 50vw;
+    height: 100%;
+    background-color: #1e1e1e;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.right-image-box {
+    height: 80%;
+}
+.hero-rev-star-box{
+    height:20px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.bike-info-box {
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.half-bike-img {
+    height: 500px;
+    width: 500px;
+}
+
+strong {
+    color: #3e9083;
+}
+
+#hero-section-small-bike {
+    height: 250px;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.gradient {
+    height: 550px;
+    width: 550px;
+    z-index: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-image: radial-gradient(at bottom left, #3e9083, #151718 70%);
+}
+
+.hero-left-text-section {
+    padding: 70px;
+}
+
+.hero-left-text-section h1 {
+    font-size: 45px;
+}
+
+.hero-left-text-section {
+    height: 40%;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-left-text-section p {
+    font-size: 19px;
+    font-weight: 300;
+}
+
+.shop-more-button {
+    margin-right: 20px;
+    font-size: 16px;
+    height: 35px;
+    width: 150px;
+    background-color: transparent;
+    border: 2px #3e9083 solid;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    z-index: 2;
+}
+
+.test-ride-button {
+    margin-right: 21px;
+    font-size: 16px;
+    height: 35px;
+    width: 150px;
+    background-color: #3e9083;
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.hero-rev-box {
+    background-color: #3e9083;
+    height: 70px;
+    width: 150px;
+    position: absolute;
+    right:0;
+    margin-bottom:25%;
+    margin-right:10%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 5px;
+
+
+}
+.hero-rev-star-box{
+    margin-top:8px;
+}
+.bike-info-box{
+    text-align: center;
+}

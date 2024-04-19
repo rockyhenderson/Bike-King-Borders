@@ -4,8 +4,8 @@
     --dark:#1E1E1E;
     --gray:rgba(1,1,1,0.6);
     --lite:rgba(255,255,255,0.6);
-    --primary:#731010;
-    --sub-primary: #a80000;
+    --primary:#3e9083;
+    --sub-primary: #4ebba9;
     --secondary:#1f1f1f;
     --sub-secondary:#731010;
 }
@@ -19,9 +19,13 @@ body {
 /* nav bar */
 /*         */
 /*         */
+
 .topnav {
     overflow: hidden;
     background-color: #000000;
+    position: sticky;
+    top: 0;
+    z-index:100;
 }
 
 .topnav a {

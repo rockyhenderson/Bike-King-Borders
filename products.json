@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Dust Devil",
+      "brand": "Trek",
+      "price": 812.87,
+      "image": "filler.jpg",
+      "type": "Mountain"
+    },
+    {
+      "name": "Dust Devil",
+      "brand": "Cannondale",
+      "price": 1162.86,
+      "image": "filler.jpg",
+      "type": "Touring"
+    },
+    {
+      "name": "Eco Traveler",
+      "brand": "Scott",
+      "price": 782.35,
+      "image": "filler.jpg",
+      "type": "Hybrid"
+    },
+    {
+      "name": "Eco Traveler",
+      "brand": "Giant",
+      "price": 609.53,
+      "image": "filler.jpg",
+      "type": "Offroad"
+    },
+    {
+      "name": "Mountain King",
+      "brand": "Specialized",
+      "price": 1339.45,
+      "image": "filler.jpg",
+      "type": "Electric"
+    },
+    {
+      "name": "Sky Surfer",
+      "brand": "Trek",
+      "price": 746.79,
+      "image": "filler.jpg",
+      "type": "Hybrid"
+    },
+    {
+      "name": "Trail Blazer",
+      "brand": "Trek",
+      "price": 562.06,
+      "image": "filler.jpg",
+      "type": "Offroad"
+    },
+    {
+      "name": "Rapid Trail",
+      "brand": "Bianchi",
+      "price": 1394.93,
+      "image": "filler.jpg",
+      "type": "Electric"
+    },
+    {
+      "name": "Trail Blazer",
+      "brand": "Scott",
+      "price": 1416.36,
+      "image": "filler.jpg",
+      "type": "Electric"
+    },
+    {
+      "name": "Highway Hawk",
+      "brand": "Trek",
+      "price": 634.64,
+      "image": "filler.jpg",
+      "type": "Road"
+    },
+    {
+      "name": "Sky Surfer",
+      "brand": "Giant",
+      "price": 790.02,
+      "image": "filler.jpg",
+      "type": "Electric"
+    },
+    {
+      "name": "Dust Devil",
+      "brand": "Specialized",
+      "price": 1136.31,
+      "image": "filler.jpg",
+      "type": "Road"
+    }
+  ]
+  
